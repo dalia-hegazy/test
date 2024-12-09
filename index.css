@@ -1,0 +1,56 @@
+.page{
+
+ 
+    position: relative;
+  background-color: #F7ECDE;
+}
+
+
+
+.head{
+ font-family: "Pacifico", cursive;;
+
+
+}
+head::after{
+    content: '';
+    width: 10px;
+    height: 10px;
+    background-color: yellowgreen;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+.bookmark{
+    border-bottom: 2px black dashed;
+    border-top: 2px black dashed;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.style_button{
+
+    color: white;
+    width: 150px;
+    height: 40px;
+padding-bottom: 5px;
+    }
+    .TAB{
+       
+    }
+    .style_button :hover{
+
+
+background-color:orangered ;
+
+    }
+    .table{
+       
+
+    }
+
+    .all{
+        padding: 3% 5% 9% 5%;
+        margin: auto;
+        background-color: #F7ECDE;
+    }
+   
